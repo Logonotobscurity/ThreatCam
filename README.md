@@ -257,12 +257,12 @@ sharpai-cli <application name> start
 |Application|SharpAI CLI Name| OS/Device |
 |---|---|---|
 |Intruder detection with Person shape| yolov7_reid   | Jetson Nano/AGX /Windows/Linux/MacOS|
-|Person Detector| yolov7_person_detector   | Jetson Nano/AGX /Windows/Linux/MacOS|
+|Person Detector/Human Behaviour analytics| yolov7_person_detector   | Jetson Nano/AGX /Windows/Linux/MacOS|
 |[Laptop Screen Monitor](https://github.com/SharpAI/laptop_monitor)| screen_monitor   | Windows/Linux/MacOS|
 |[Facial Recognition Intruder Detection](docs/how_to_run_intruder_detection.md) | deepcamera | Jetson Nano|Windows/Linux/MacOS|
 |[Local Facial Recognition Intruder Detection](docs/how_to_run_local_intruder_detection.md) | local_deepcamera | Windows/Linux/MacOS|
-|[Parking Lot monitor](docs/Yolo_Parking.md) | yoloparking  | Jetson AGX |
-|[Fall Detection](docs/FallDetection_with_shinobi.md) | falldetection   |Jetson AGX|
+|[Traffic monitoring](docs/Yolo_Parking.md) | yoloparking  | Jetson AGX |
+|Object Detection](docs/FallDetection_with_shinobi.md) | falldetection   |Jetson AGX|
 
 # Tested Devices
 ## Edge AI Devices / Workstation
