@@ -309,6 +309,3 @@ sudo pip3 install docker-compose==1.27.4
 ## [How to config RTSP on GUI](https://github.com/SharpAI/DeepCamera/blob/master/docs/shinobi.md)   
 ## [Camera streaming URL format](https://shinobi.video)
 ## How to create token for Telegram Bot(DOC W.I.P)
-- Create Telegram Bot through @BotFather
-- Set Telegram Token in [Configure File](https://github.com/SharpAI/DeepCamera/blob/nano/docker/production_1.env#L15)
-
