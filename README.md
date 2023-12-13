@@ -277,10 +277,6 @@ sharpai-cli <application name> start
 - Ip Camera Lite on IOS: URL Path: `/live` Port: `8554`   
 - Nest Camera indoor/outdoor by Home-Assistant integration
 
-# Support
-- If you are using a camera but have no idea about the RTSP URL, please join SharpAI community for help.
-- SharpAI provides commercial support to companies which want to deploy AI Camera application to real world.
-## [Click to join sharpai slack channel](https://join.slack.com/t/sharpai/shared_invite/zt-1nt1g0dkg-navTKx6REgeq5L3eoC1Pqg)
 
 # DeepCamera Architecture
 ![architecture](screenshots/DeepCamera_infrastructure.png)
